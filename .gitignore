@@ -1,0 +1,62 @@
+# C Output files
+1-left
+2-right
+3-del
+0-node
+4-leaf
+5-root
+6-pre
+7-in
+8-post
+9-height
+10-depth
+11-size
+12-leaves
+13-nodes
+14-balance
+15-full
+16-perfect
+17-sibling
+18-uncle
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Test files
+*-main.c
